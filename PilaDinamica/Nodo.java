@@ -1,5 +1,3 @@
-package cursoprogramacion.estructuraDatos.pilas;
-
 /** Clase nodo (Elemento basico de la pila).
  **/
 public class NodoPila {
